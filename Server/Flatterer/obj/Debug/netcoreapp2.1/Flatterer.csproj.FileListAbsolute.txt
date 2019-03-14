@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Flatterer.deps.json
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Flatterer.runtimeconfig.json
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Flatterer.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Flatterer.dll
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Entity.dll
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\FlattererRepertory.dll
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\FlattererRepertory.pdb
+C:\Users\Dell\Desktop\Flatterer\Flatterer\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Flatterer\Flatterer\obj\Debug\netcoreapp2.1\Flatterer.csproj.CopyComplete

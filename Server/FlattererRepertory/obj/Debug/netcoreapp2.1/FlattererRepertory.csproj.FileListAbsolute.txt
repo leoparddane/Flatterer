@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\FlattererRepertory.deps.json
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\FlattererRepertory.dll
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\FlattererRepertory.pdb
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\Entity.dll
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.csproj.CopyComplete
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.dll
+C:\Users\Dell\Desktop\Flatterer\FlattererRepertory\obj\Debug\netcoreapp2.1\FlattererRepertory.pdb
